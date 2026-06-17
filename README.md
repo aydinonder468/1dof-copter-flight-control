@@ -146,7 +146,7 @@ The script compiles the Arduino sketch, uploads it over ST-Link/SWD, and then se
 The interface is a Python/PySide6 primary flight display for the 1-DOF copter. It can run with mock data, TCP telemetry, or direct STM32 serial telemetry.
 
 The following video shows the interface receiving serial telemetry from the STM32:
-![1-DOF Copter Motion Preview](media/P1.png)
+![1-DOF Copter Motion Preview](media/P1.jpeg)
 
 <video src="media/interface_demo.mp4" controls muted width="100%"></video>
 
