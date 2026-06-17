@@ -7,7 +7,7 @@ The system balances a pivoting beam with two brushless motors. An STM32F401 read
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="media/images/P2.png" alt="P2 Yatay Görsel 1" width="100%">
+      <img src="P2.png" alt="P2 Yatay Görsel 1" width="100%">
       <br><br>
       <img src="media/images/P4.png" alt="P4 Yatay Görsel 2" width="100%">
     </td>
