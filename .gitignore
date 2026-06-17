@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# MATLAB
+*.asv
+*.m~
+*.slxc
+*.mex*
+*.mat
+
+# Arduino / STM32 build outputs
+build*/
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+*.a
+compile_commands.json
+includes.cache
+libraries.cache
+build.options.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
