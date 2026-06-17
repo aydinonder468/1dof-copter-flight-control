@@ -41,6 +41,7 @@ The system balances a pivoting beam with two brushless motors. An STM32F401 read
 
 ## Hardware Demo
 ![1-DOF Copter Motion Preview](media/one_dof_copter_motion_preview.png)
+
 The following video shows the physical test rig captured with a camera during a real run.
 
 <video src="media/hardware_test.mp4" controls muted width="100%"></video>
@@ -145,6 +146,7 @@ The script compiles the Arduino sketch, uploads it over ST-Link/SWD, and then se
 The interface is a Python/PySide6 primary flight display for the 1-DOF copter. It can run with mock data, TCP telemetry, or direct STM32 serial telemetry.
 
 The following video shows the interface receiving serial telemetry from the STM32:
+![1-DOF Copter Motion Preview](media/P1.png)
 
 <video src="media/interface_demo.mp4" controls muted width="100%"></video>
 
