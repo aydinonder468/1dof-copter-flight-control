@@ -4,11 +4,11 @@ This repository contains the firmware, desktop interface, MATLAB model, and demo
 
 The system balances a pivoting beam with two brushless motors. An STM32F401 reads the GY-91 IMU/barometer board, estimates the control angle, runs a PID controller, drives two ESCs with PWM, and streams telemetry to a Python flight-controller interface over USB CDC serial.
 
-![1-DOF Copter Motion Preview](P2.png)
+![1-DOF Copter Preview](media/P2.png)
 
-![1-DOF Copter Motion Preview](media/P3.png)
+![1-DOF Copter  Preview](media/P3.png)
 
-![1-DOF Copter Motion Preview](media/P4.png)
+![1-DOF Copter Preview](media/P4.png)
 
 
 
