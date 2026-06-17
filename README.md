@@ -6,9 +6,9 @@ The system balances a pivoting beam with two brushless motors. An STM32F401 read
 
 ![1-DOF Copter Motion Preview](P2.png)
 
-![1-DOF Copter Motion Preview](media/one_dof_copter_motion_preview.png)
+![1-DOF Copter Motion Preview](media/P3.png)
 
-![1-DOF Copter Motion Preview](media/one_dof_copter_motion_preview.png)
+![1-DOF Copter Motion Preview](media/P4.png)
 
 
 
