@@ -40,7 +40,7 @@ The system balances a pivoting beam with two brushless motors. An STM32F401 read
 ```
 
 ## Hardware Demo
-
+![1-DOF Copter Motion Preview](media/one_dof_copter_motion_preview.png)
 The following video shows the physical test rig captured with a camera during a real run.
 
 <video src="media/hardware_test.mp4" controls muted width="100%"></video>
